@@ -12,6 +12,8 @@ The goal of this project is to:
 
 The model is trained on the **LGG-MRI Segmentation dataset** (available on Kaggle).  
 
+
+
 ## Model Architectures
 
 ### 🔹 U-Net (Segmentation)
