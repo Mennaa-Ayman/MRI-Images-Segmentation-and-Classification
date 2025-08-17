@@ -24,6 +24,10 @@ The model is trained on the **LGG-MRI Segmentation dataset** (available on Kaggl
 - Output: Binary mask (`tumor = 1`, `background = 0`).
 
 ### 🔹 CNN (Classification)
-- Standard CNN built on top of extracted features.
+- A ResNet50-based Convolutional Neural Network (CNN) built on top of extracted features.
 - Input: Brain MRI image.
 - Output: Tumor / No-tumor (binary classification).
+
+## Plots of Segmentation
+<img width="867" height="661" alt="image" src="https://github.com/user-attachments/assets/f1135f7b-435d-4d4a-b6c0-09d23baf3f3a" />
+
