@@ -29,5 +29,9 @@ The model is trained on the **LGG-MRI Segmentation dataset** (available on Kaggl
 - Output: Tumor / No-tumor (binary classification).
 
 ## Plots of Segmentation
-<img width="867" height="661" alt="image" src="https://github.com/user-attachments/assets/f1135f7b-435d-4d4a-b6c0-09d23baf3f3a" />
+
+<img width="500" height="500" alt="Screenshot 2025-08-18 151314" src="https://github.com/user-attachments/assets/4fe83d40-087e-4bb5-af30-2ba3002fc1a1" />
+<img width="500" height="500" alt="Screenshot 2025-08-18 151414" src="https://github.com/user-attachments/assets/90b38203-c47b-49b0-8fd6-54ff550a530e" />
+
+
 
