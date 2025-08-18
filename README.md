@@ -1,8 +1,8 @@
 # MRI-Images-Segmentation-and-Classification
 
 This repository contains a Jupyter notebook that focuses on **Brain MRI image analysis** using **Deep Learning**. It combines two tasks: 
-1. **Segmentation** of brain tumors from MRI scans using **U-Net**.
-2. **Classification** of brain MRI images (tumor / no-tumor) using CNN
+1. **Segmentation** of brain tumors from MRI scans.
+2. **Classification** of brain MRI images (tumor / no-tumor).
 
 ## 📌 Project Overview
 Medical imaging plays a vital role in diagnosing brain tumors.  
