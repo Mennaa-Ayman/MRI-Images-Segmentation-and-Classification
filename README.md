@@ -10,7 +10,7 @@ The goal of this project is to:
 - Automatically **segment tumor regions** in MRI scans.
 - Automatically **classify MRI scans** based on the presence of tumors.
 
-The model is trained on the **LGG-MRI Segmentation dataset** (available on Kaggle).  
+The model is trained on the **LGG-MRI Segmentation dataset** on kaggle: [link](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
 
 
